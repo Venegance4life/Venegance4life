@@ -1,12 +1,49 @@
-- 👋 Hi, I’m Soumabrata Roy a skilled Android DEveloper who learnt development hands on from Google
-- 👀 I’m interested in Kotlin,Android Studio,xml files ,Java for DSA
-- 🌱 I’m currently specializing in My above mentioned skills
-- 💞️ I’m looking to collaborate on Android Development
-- 📫 How to reach me soumabrataroy2004@gmail.com, LinkedIn - 
-- 😄 Pronouns: Him
-- ⚡ Fun fact: I am skilled in both DSA and Android Dev
+<h1 align="center">Hi 👋, I'm Soumabrata Roy</h1>
+<h3 align="center">Aspiring Android Developer | GATE ECE 2025 Aspirant | Java + Kotlin Enthusiast</h3>
 
-<!---
-Venegance4life/Venegance4life is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🎓 **Electronics & Communication Engineering**  
+📍 RCC Institute of Information Technology, Kolkata  
+🎯 **Graduating:** 2026 | **CGPA:** ~6.5
+
+💻 Currently building:  
+- 🔬 Arduino-based **ECG & Heartbeat Monitoring App** (Android + Kotlin)  
+- 📱 Jetpack Compose projects from **Google Developer Program**
+
+ 
+- ✅ Network Theory, EMFT, DSD, Communication Systems  
+
+
+🛠️ **Tech Stack**
+
+**Languages & Tools:**  
+- 💻 Java | Kotlin | C++ 
+- 🌐 SQL | Firebase  
+- 📲 Jetpack Compose | Android Studio  
+- 📊 MATLAB (Smith Charts, EM Simulations)  
+- ⚙️ Arduino | PSpice  
+- 🧠 Learning DSA with Love Babbar & LeetCode  
+
+🎯 **Interests:**  
+- Android development  
+- Embedded-Android integration  
+- Problem-solving & system design  
+- Exploring the overlap between ECE and Software
+
+📈 **Goals:**  
+- 🧪 Launch real-world health tech projects  
+- 💼 Crack product-based roles in core/software domains  
+- 🎓 Excel in GATE and contribute to digital communication research
+
+---
+
+📫 **Let's Connect:**  
+- 📧 Email: [soumabrataroy2004@gmail.com](mailto:soumabrataroy2004@gmail.com)  
+- 🧑‍💻 GitHub: [@VenegenceRoy](https://github.com/VenegenceRoy)  
+- 💬 Always up for collaborations on impactful Android or ECE projects!
+
+---
+
+⭐ *“Still learning, still growing — building one app and one problem at a time.”*
+
