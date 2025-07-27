@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumabrata Roy</h1>
-<h3 align="center">Aspiring Android Developer | GATE ECE 2025 Aspirant | Java + Kotlin Enthusiast</h3>
+<h3 align="center">Aspiring Android Developer | Java + Kotlin Enthusiast</h3>
 
 ---
 
