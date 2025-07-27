@@ -5,7 +5,7 @@
 
 🎓 **Electronics & Communication Engineering**  
 📍 RCC Institute of Information Technology, Kolkata  
-🎯 **Graduating:** 2026 | **CGPA:** ~6.5
+🎯 **Graduating:** 2026 |
 
 💻 Currently building:  
 - 🔬 Arduino-based **ECG & Heartbeat Monitoring App** (Android + Kotlin)  
