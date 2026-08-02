@@ -1,49 +1,35 @@
-<h1 align="center">Hi 👋, I'm Soumabrata Roy</h1>
-<h3 align="center">Aspiring Android Developer | Java + Kotlin Enthusiast</h3>
+# Hi 👋 I'm Soumabrata Roy
 
----
+AI & LLM Engineer | Python | FastAPI | LangChain | LangGraph | RAG | MCP
 
-🎓 **Electronics & Communication Engineering**  
-📍 RCC Institute of Information Technology, Kolkata  
-🎯 **Graduating:** 2026 |
+## Tech Stack
 
-💻 Currently building:  
-- 🔬 Arduino-based **ECG & Heartbeat Monitoring App** (Android + Kotlin)  
-- 📱 Jetpack Compose projects from **Google Developer Program**
+- Python
+- FastAPI
+- Docker
+- Git
+- Pydantic
+- OpenAI API
+- Gemini API
+- Ollama
+- Hugging Face
+- LangChain
+- LangGraph
+- Redis
+- MongoDB
+- Neo4j
+- Vector Databases
 
- 
-- ✅ Network Theory, EMFT, DSD, Communication Systems  
+## Interests
 
+- LLM Systems
+- AI Agents
+- Retrieval-Augmented Generation
+- Multi-Modal AI
+- AI Infrastructure
+- Backend Engineering
 
-🛠️ **Tech Stack**
+## Current Focus
 
-**Languages & Tools:**  
-- 💻 Java | Kotlin | C++ 
-- 🌐 SQL | Firebase  
-- 📲 Jetpack Compose | Android Studio  
-- 📊 MATLAB (Smith Charts, EM Simulations)  
-- ⚙️ Arduino | PSpice  
-- 🧠 Learning DSA with Love Babbar & LeetCode  
-
-🎯 **Interests:**  
-- Android development  
-- Embedded-Android integration  
-- Problem-solving & system design  
-- Exploring the overlap between ECE and Software
-
-📈 **Goals:**  
-- 🧪 Launch real-world health tech projects  
-- 💼 Crack product-based roles in core/software domains  
-- 🎓 Excel in GATE and contribute to digital communication research
-
----
-
-📫 **Let's Connect:**  
-- 📧 Email: [soumabrataroy2004@gmail.com](mailto:soumabrataroy2004@gmail.com)  
-- 🧑‍💻 GitHub: [@VenegenceRoy](https://github.com/VenegenceRoy)  
-- 💬 Always up for collaborations on impactful Android or ECE projects!
-
----
-
-⭐ *“Still learning, still growing — building one app and one problem at a time.”*
+Building production-ready AI systems with Python and modern LLM frameworks.
 
