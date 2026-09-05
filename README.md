@@ -111,9 +111,7 @@ When I'm away from the keyboard, you'll probably find me:
 ---
 
 ## 📫 Connect with Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* Leetcode: https://leetcode.com/u/Vengeance_roy/
 
 ---
 
