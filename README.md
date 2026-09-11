@@ -1,127 +1,136 @@
-# 👋 Hi, I'm Soumabrata Roy
+<div align="center">
 
-### Java & Spring Boot Developer | Backend & Full-Stack Developer | DSA Enthusiast
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=220&section=header&text=Soumabrata%20Roy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Spring%20Boot%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
-I'm an Electronics & Communication Engineering graduate focused on building secure, practical full-stack applications with Java and Spring Boot.
+[![GitHub](https://img.shields.io/badge/GitHub-Venegance4life-181717?style=for-the-badge&logo=github)](https://github.com/Venegance4life)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Vengeance__roy-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vengeance_roy/)
+[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
-I enjoy designing backend systems, building REST APIs, implementing authentication and business logic, and turning problem-solving skills into real projects. I have solved 300+ LeetCode problems and am actively improving my knowledge of backend engineering, system design, and deployment.
+</div>
 
----
+## 🚀 About Me
 
-## 🚀 Currently Learning
+```java
+public class SoumabrataRoy {
+    String role = "Java & Spring Boot Developer";
+    String focus = "Backend Engineering + Full-Stack Applications";
+    int leetCodeProblemsSolved = 300;
+    String currentGoal = "Build scalable, secure, production-quality systems";
+}
+```
 
-- Java and Spring Boot
-- Spring Security and JWT authentication
-- REST API design
-- PostgreSQL and database design
-- Docker and deployment
-- System design
-- Redis and caching
-- Microservices fundamentals
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-- Java
-- JavaScript
-- SQL
-
-### Backend
-
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- REST APIs
-- JWT Authentication
-- Bean Validation
-- Maven
-
-### Frontend
-
-- React
-- Vite
-- React Router
-- Axios
-- Recharts
-- HTML, CSS, JavaScript
-
-### Databases & Tools
-
-- PostgreSQL
-- H2 Database
-- Git & GitHub
-- Docker
-- Render
-- Vercel
+I’m an Electronics & Communication Engineering graduate passionate about turning strong problem-solving skills into useful software. I enjoy building secure APIs, designing backend systems, working with databases, and shipping full-stack applications from idea to deployment.
 
 ---
 
-## 📌 Featured Projects
+## 🧰 My Toolbox
 
-### 💰 Smart Financial Wallet & Analytics Platform
+<div align="center">
 
-A full-stack personal-finance application for tracking income, expenses, budgets, and spending patterns.
+![Java](https://skillicons.dev/icons?i=java,spring,js,react,postgres,mysql,html,css,git,github,docker,maven,vscode&perline=13)
 
-- JWT-based authentication and role-based access
-- Transaction, category, and budget management
-- Analytics dashboard with expense and savings trends
-- Rule-based spending insights, anomaly detection, and monthly forecasts
-- React dashboard with Recharts visualizations
-- Spring Boot, Spring Security, JPA, PostgreSQL, React, and Vite
+</div>
 
-### 🛡️ SentinelOps — Security Incident Response Platform
-
-A Spring Boot security platform that receives security events and automatically creates incidents for suspicious activity.
-
-- Security-event ingestion API
-- Malware alert detection
-- Brute-force detection using a 10-minute sliding-window rule
-- Automatic HIGH and CRITICAL incident creation
-- JWT authentication, incident tracking, and audit logs
-- Docker and Render deployment configuration
-- Spring Boot, Spring Security, JWT, JPA, H2, Docker, and Render
+| Category | Technologies |
+| :--- | :--- |
+| ⚙️ Backend | Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs, JWT |
+| 🎨 Frontend | React, Vite, React Router, Axios, Recharts, HTML, CSS, JavaScript |
+| 🗄️ Databases | PostgreSQL, H2, SQL |
+| 🛠️ Tools | Git, GitHub, Docker, Maven, Render, Vercel |
+| 🧠 Problem Solving | Data Structures, Algorithms, LeetCode, System Design |
 
 ---
 
-## 🧩 Problem Solving
+## 🌟 Featured Projects
 
-- Solved **300+ LeetCode problems**
-- Interested in data structures and algorithms
-- Practicing arrays, strings, linked lists, trees, graphs, dynamic programming, and recursion
-- Applying efficient problem-solving techniques in backend projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Smart Financial Wallet
+
+A full-stack personal-finance platform that helps users track income, expenses, budgets, and savings patterns.
+
+**Highlights**
+
+- 🔐 JWT authentication and role-based access
+- 💳 Income, expense, category, and budget management
+- 📊 Interactive analytics and trend dashboards
+- 🤖 Rule-based spending insights and anomaly detection
+- 📈 Savings-rate suggestions and monthly forecasting
+
+**Built with**  
+`Spring Boot` `Spring Security` `JPA` `PostgreSQL` `React` `Recharts`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SentinelOps
+
+A security incident response platform that detects risky activity and helps analysts investigate incidents.
+
+**Highlights**
+
+- 🚨 Security-event ingestion API
+- 🦠 Automatic CRITICAL incidents for malware alerts
+- 🔎 Brute-force detection with a 10-minute sliding window
+- 📋 Incident status, assignment, and audit tracking
+- 🐳 Docker and Render deployment configuration
+
+**Built with**  
+`Spring Boot` `JWT` `Spring Security` `JPA` `H2` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 My Interests
+## 🧩 Problem-Solving Journey
 
-- Backend Engineering
-- Spring Boot Development
-- Secure API Design
-- System Design
-- Full-Stack Development
-- Databases and Performance Optimization
-- Docker and Cloud Deployment
-- Open Source
+<div align="center">
 
----
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Vengeance_roy?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Vengeance_roy/)
 
-## 🎯 Current Goals
+</div>
 
-- Build more production-quality Spring Boot applications
-- Strengthen system-design knowledge
-- Deploy complete full-stack applications
-- Learn Redis, Kafka, and microservices
-- Continue improving data structures and algorithms
-- Contribute to open-source projects
+- 🧠 Solved **300+ LeetCode problems**
+- 🌳 Comfortable with trees, graphs, recursion, and dynamic programming
+- ⚡ Practicing efficient time and space complexity analysis
+- 🏗️ Applying DSA thinking to real backend projects
 
 ---
 
-## 📫 Connect with Me
+## 🎯 Currently Leveling Up
 
-- GitHub: [Venegance4life](https://github.com/Venegance4life)
-- LeetCode: [Vengeance_roy](https://leetcode.com/u/Vengeance_roy/)
+```text
+☕ Advanced Java & Spring Boot
+🔐 Secure API architecture
+🗄️ PostgreSQL & database optimization
+🐳 Docker & cloud deployment
+⚡ Redis, caching & message queues
+🏛️ System design & microservices
+```
 
+---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Soumabrata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venegance4life&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venegance4life&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Consistency in problem solving, curiosity in building.”
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=120&section=footer)
+
+</div>
