@@ -1,25 +1,23 @@
 # 👋 Hi, I'm Soumabrata Roy
 
-### AI & LLM Engineer | Electronics & Communication Engineer | Python Developer
+### Java & Spring Boot Developer | Backend & Full-Stack Developer | DSA Enthusiast
 
-I'm an Electronics & Communication Engineering graduate passionate about building intelligent software with **Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), and Backend Engineering**.
+I'm an Electronics & Communication Engineering graduate focused on building secure, practical full-stack applications with Java and Spring Boot.
 
-I enjoy understanding how systems work—from transformers and neural networks to distributed AI architectures—and turning those ideas into practical applications.
+I enjoy designing backend systems, building REST APIs, implementing authentication and business logic, and turning problem-solving skills into real projects. I have solved 300+ LeetCode problems and am actively improving my knowledge of backend engineering, system design, and deployment.
 
 ---
 
 ## 🚀 Currently Learning
 
-* 🤖 AI & LLM Engineering
-* 🐍 Advanced Python
-* ⚡ FastAPI
-* 🔗 LangChain & LangGraph
-* 🧠 AI Agents
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🗄️ Vector Databases
-* 🐳 Docker
-* ☁️ AI Deployment
-* 🔌 Model Context Protocol (MCP)
+- Java and Spring Boot
+- Spring Security and JWT authentication
+- REST API design
+- PostgreSQL and database design
+- Docker and deployment
+- System design
+- Redis and caching
+- Microservices fundamentals
 
 ---
 
@@ -27,94 +25,103 @@ I enjoy understanding how systems work—from transformers and neural networks t
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+- Java
+- JavaScript
+- SQL
 
-### AI & Machine Learning
+### Backend
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST APIs
+- JWT Authentication
+- Bean Validation
+- Maven
 
-### Backend & Infrastructure
+### Frontend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge\&logo=neo4j)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+- React
+- Vite
+- React Router
+- Axios
+- Recharts
+- HTML, CSS, JavaScript
+
+### Databases & Tools
+
+- PostgreSQL
+- H2 Database
+- Git & GitHub
+- Docker
+- Render
+- Vercel
 
 ---
 
 ## 📌 Featured Projects
 
-* 🤖 AI Assistant Platform
-* 📄 Production RAG Pipeline
-* 🧠 LangGraph AI Agent
-* 🎙️ Voice AI Assistant
-* 🔌 MCP Python Server
-* 🔤 Tokenizer From Scratch
+### 💰 Smart Financial Wallet & Analytics Platform
+
+A full-stack personal-finance application for tracking income, expenses, budgets, and spending patterns.
+
+- JWT-based authentication and role-based access
+- Transaction, category, and budget management
+- Analytics dashboard with expense and savings trends
+- Rule-based spending insights, anomaly detection, and monthly forecasts
+- React dashboard with Recharts visualizations
+- Spring Boot, Spring Security, JPA, PostgreSQL, React, and Vite
+
+### 🛡️ SentinelOps — Security Incident Response Platform
+
+A Spring Boot security platform that receives security events and automatically creates incidents for suspicious activity.
+
+- Security-event ingestion API
+- Malware alert detection
+- Brute-force detection using a 10-minute sliding-window rule
+- Automatic HIGH and CRITICAL incident creation
+- JWT authentication, incident tracking, and audit logs
+- Docker and Render deployment configuration
+- Spring Boot, Spring Security, JWT, JPA, H2, Docker, and Render
+
+---
+
+## 🧩 Problem Solving
+
+- Solved **300+ LeetCode problems**
+- Interested in data structures and algorithms
+- Practicing arrays, strings, linked lists, trees, graphs, dynamic programming, and recursion
+- Applying efficient problem-solving techniques in backend projects
 
 ---
 
 ## 🌱 My Interests
 
-* 🧠 Artificial Intelligence & LLMs
-* 🤖 AI Agents
-* ⚙️ Backend Engineering
-* 📖 System Design
-* 🔒 AI Safety & Responsible AI
-* 🌍 Open Source
-* ☁️ Cloud Technologies
+- Backend Engineering
+- Spring Boot Development
+- Secure API Design
+- System Design
+- Full-Stack Development
+- Databases and Performance Optimization
+- Docker and Cloud Deployment
+- Open Source
 
 ---
 
-## 🎯 Beyond Coding
+## 🎯 Current Goals
 
-When I'm away from the keyboard, you'll probably find me:
-
-🏋️ Working out at the gym
-
-🏓 Playing Table Tennis
-
-🍳 Cooking and experimenting with new recipes
-
-🚴 Cycling
-
-🎸 Listening to The Beatles
-
-📚 Reading Bengali literature
-
-🎌 Watching anime
-
-🏏 Following cricket
-
-🇩🇪 Learning German
-
----
-
-## 📈 Current Goals
-
-* Build production-ready AI systems
-* Contribute to open-source AI projects
-* Learn distributed AI architectures
-* Explore multimodal AI
-* Keep improving as a software engineer every day
+- Build more production-quality Spring Boot applications
+- Strengthen system-design knowledge
+- Deploy complete full-stack applications
+- Learn Redis, Kafka, and microservices
+- Continue improving data structures and algorithms
+- Contribute to open-source projects
 
 ---
 
 ## 📫 Connect with Me
-* Leetcode: https://leetcode.com/u/Vengeance_roy/
 
----
-
-> *"The best way to learn AI is to build AI."*
+- GitHub: [Venegance4life](https://github.com/Venegance4life)
+- LeetCode: [Vengeance_roy](https://leetcode.com/u/Vengeance_roy/)
 
 
